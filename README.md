@@ -1,1 +1,1 @@
-# Week2 - Binary Logistic Regression
+# Week2 - Logistic Regression
